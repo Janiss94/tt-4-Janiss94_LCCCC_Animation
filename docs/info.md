@@ -1,6 +1,6 @@
 ## How it works
 
-It's a blinking animation of the LCCC (Latvian Chip Competence Centre)
+Screensaver with LCCC logo, chipathon, sponsors
 
 ## How to test
 
